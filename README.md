@@ -9,7 +9,7 @@ Exploration remains a significant challenge in deep reinforcement learning (RL),
 
 Existing latent-based exploration methods across several metrics. The following table summarizes the key features of different algorithms:
 
-| Algorithm       | Exploration Bonus                                     | Latent Space   | EET | SRL | TAM |
+| Algorithm       | Exploration Bonus                                     | Latent Space   | TAW | RSL | MEA |
 |-----------------|-------------------------------------------------------|----------------|-----|-----|-----|
 | RE3             |     | Random         | ✗   | ✗   | ✗   |
 | RLE             |                | -        | ✗   | ✗   | ✗   |
