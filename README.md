@@ -12,12 +12,13 @@ Existing latent-based exploration methods across several metrics. The following 
 | Algorithm       | Exploration Bonus                                     | Latent Space   | EET | SRL | TAM |
 |-----------------|-------------------------------------------------------|----------------|-----|-----|-----|
 | RE3             |     | Random         | ✗   | ✗   | ✗   |
-| RLE             |                | Random         | ✗   | ✗   | ✗   |
+| RLE             |                | -        | ✗   | ✗   | ✗   |
 | ICM             |  | Dynamics-based | ✗   | ✓   | ✗   |
 | RIDE            | | Dynamics-based | ✗   | ✓   | ✗   |
 | LIBERTY         |        | Metric-based   | ✗   | ✗   | ✗   |
-| EME             |  | Metric-based   | ✓   | ✗   | ✗   |
-| E3B |   |  |  Dynamics-based|  ✓   | ✗   | ✗   |
+| EME             |  | - | ✓   | ✗   | ✗   |
+| E3B |   |   Dynamics-based |  ✓   | ✗   | ✗   |
+| UnitD |   |   Dynamics-based |  ✓   | ✗   | ✗   |
 | ... |   | ... | ...   | ...   | ..  |
 
 
