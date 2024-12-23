@@ -17,7 +17,7 @@ Existing latent-based exploration methods across several metrics. The following 
 | RIDE            | $\|\phi(s^{\prime})-\phi(s)\|_2/\sqrt{N_{ep}(s^{\prime})}$ | Dynamics-based | ✗   | ✓   | ✗   |
 | LIBERTY         | $[\gamma \phi(s^{\prime},s_0) - \phi(s,s_0)]$        | Metric-based   | ✗   | ✗   | ✗   |
 | EME             | $\| \phi(s^{\prime})-\phi(s)\|_1*\zeta(r_s)|_1^{M}$  | Metric-based   | ✓   | ✗   | ✗   |
-| LBF |   | unified | ✓   | ✓   | ✓   |
+| ... |   | ... | ...   | ...   | ..  |
 
 
 
