@@ -17,8 +17,8 @@ Existing latent-based exploration methods across several metrics. The following 
 | RIDE            | | Dynamics-based | ✗   | ✓   | ✗   |
 | LIBERTY         |        | Metric-based   | ✗   | ✗   | ✗   |
 | EME             |  | Metric-based   | ✓   | ✗   | ✗   |
+| E3B |   |  |  Dynamics-based|  ✓   | ✗   | ✗   |
 | ... |   | ... | ...   | ...   | ..  |
-
 
 
 ## Installation
