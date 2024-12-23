@@ -11,12 +11,12 @@ Existing latent-based exploration methods across several metrics. The following 
 
 | Algorithm       | Exploration Bonus                                     | Latent Space   | EET | SRL | TAM |
 |-----------------|-------------------------------------------------------|----------------|-----|-----|-----|
-| RE3             | $\log(\|\phi(s) - \phi(s)^{k\text{-NN}}\|_2 + 1)$     | Random         | ✗   | ✗   | ✗   |
-| RLE             | $\phi(s)*\texttt{vector}(\phi(\cdot))$                | Random         | ✗   | ✗   | ✗   |
-| ICM             | $\| \hat{\phi}(s^{\prime}) - \phi(s^{\prime}) \|_2^2$ | Dynamics-based | ✗   | ✓   | ✗   |
-| RIDE            | $\|\phi(s^{\prime})-\phi(s)\|_2/\sqrt{N_{ep}(s^{\prime})}$ | Dynamics-based | ✗   | ✓   | ✗   |
-| LIBERTY         | $[\gamma \phi(s^{\prime},s_0) - \phi(s,s_0)]$        | Metric-based   | ✗   | ✗   | ✗   |
-| EME             | $\| \phi(s^{\prime})-\phi(s)\|_1*\zeta(r_s)|_1^{M}$  | Metric-based   | ✓   | ✗   | ✗   |
+| RE3             |     | Random         | ✗   | ✗   | ✗   |
+| RLE             |                | Random         | ✗   | ✗   | ✗   |
+| ICM             |  | Dynamics-based | ✗   | ✓   | ✗   |
+| RIDE            | | Dynamics-based | ✗   | ✓   | ✗   |
+| LIBERTY         |        | Metric-based   | ✗   | ✗   | ✗   |
+| EME             |  | Metric-based   | ✓   | ✗   | ✗   |
 | ... |   | ... | ...   | ...   | ..  |
 
 
