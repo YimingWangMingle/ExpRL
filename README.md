@@ -24,5 +24,5 @@ Existing latent-based exploration methods across several metrics. The following 
 
 ## Installation
 
-## Released after review phase
+## Released after phase x
 
