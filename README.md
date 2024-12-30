@@ -1,4 +1,4 @@
-# LEF-Latent-Exploration-Framework
+# ExpRL: Exploration in Reinforcement Learning
 
 ## Overview
 
